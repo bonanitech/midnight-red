@@ -24,18 +24,20 @@ This is a dark theme for [Node-RED][node-red] based on the [midnight theme][ha-m
 
 ## Install
 
-Copy `midnight.css` and `theme-tomorrow.js` into the same directory of your `settings.js` file. In my case `/config/node-red`.
+Copy `midnight.css` and `theme-tomorrow.js` into the same directory of your `settings.js` file.
 
-Add the folowing to the `editorTheme` section of your `settings.js`
+Add the folowing to the `editorTheme` section of your `settings.js`.
 
 ```js
 editorTheme: {
     page: {
-        css: "/config/node-red/midnight.css",
-        scripts: "/config/node-red/theme-tomorrow.js"
+        css: "<config-path>/midnight.css",
+        scripts: "<config-path>/theme-tomorrow.js"
     }
 }
 ```
+
+Replace `<config-path>` with the directory where your `settings.js` file is located. For example, `/config/node-red`.
 
 Restart Node-RED.
 
