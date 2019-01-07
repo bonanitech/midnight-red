@@ -491,6 +491,10 @@
   border-color: #2E333A;
 }
 
+.ui-widget textarea {
+  background-color: #434954 !important;
+}
+
 .ui-widget-content {
   background: #434954;
   border-color: #2E333A;
