@@ -35,7 +35,7 @@
 }
 
 .debug-message-row:hover {
-  background-color: #f3f3f3;
+  background-color: #434954;
 }
 
 .debug-message-tools .editor-button-small i.fa-terminal {
@@ -154,6 +154,63 @@
   color: #383C45;
 }
 
+.node-dialog-view-diff-headers div {
+  background-color: #434954;
+  border-color: #2E333A;
+  border-left-color: #2E333A;
+  border-top-color: #2E333A;
+  color: #EDEDED;
+}
+
+.node-dialog-view-diff-headers div:last-child {
+  border-right-color: #2E333A;
+  color: #EDEDED;
+}
+
+.node-dialog-view-diff-panel .node-dialog-view-diff-diff li {
+  background: #383C45;
+}
+
+.node-diff-node-description {
+  color: #222;
+}
+
+.node-diff-node-entry td,
+.node-diff-node-entry th {
+  border-left-color: #2E333A;
+  border-top-color: #2E333A;
+}
+
+.node-diff-node-entry-cell {
+  border-left-color: #2E333A;
+}
+
+.node-diff-node-entry-header:hover {
+  color: #666;
+}
+
+.node-diff-node-entry-properties {
+  color: #222;
+}
+
+.node-diff-node-entry:first-child {
+  border-top-color: #2E333A;
+}
+
+.node-diff-node-unchanged .node-diff-status {
+  color: #222;
+}
+
+.node-diff-tab {
+  background-color: #434954;
+  border-color: #2E333A;
+  color: #EDEDED;
+}
+
+.node-diff-tab-title:hover {
+  color: #666;
+}
+
 .node-help .node-info-header {
   color: #EDEDED;
 }
@@ -185,6 +242,15 @@
 
 .node-text-diff table.node-text-diff-content td.lineno {
   background-color: #434954;
+}
+
+.node-text-diff table.node-text-diff-content tr.node-text-diff-commit-header td .commit-summary {
+  border-top-color: #2E333A;
+}
+
+.node-text-diff table.node-text-diff-content tr.node-text-diff-commit-header td {
+  background-color: #434954;
+  color: #EDEDED;
 }
 
 .node-text-diff table.node-text-diff-content tr.node-text-diff-file-header td {
@@ -240,6 +306,20 @@
 .palette-search {
   background-color: #383C45;
   border-bottom-color: #2E333A;
+}
+
+.projects-branch-list .red-ui-editableList .red-ui-editableList-container li {
+  background: #2E333A;
+}
+
+.projects-branch-list .red-ui-editableList {
+  border-color: #2E333A;
+}
+
+.projects-branch-list .red-ui-searchBox-container {
+  border-left-color: #2E333A;
+  border-right-color: #2E333A;
+  border-top-color: #2E333A;
 }
 
 .projects-dialog-list .red-ui-editableList-container {
@@ -494,6 +574,18 @@
   background-color: #434954;
 }
 
+.sidebar-version-control-branch-list-entry {
+  background-color: #434954;
+  border-left-color: #2E333A;
+  border-right-color: #2E333A;
+  color: #EDEDED;
+}
+
+.sidebar-version-control-branch-list-entry:not(.input-error):hover {
+  background: #f3f3f3;
+  color: #666;
+}
+
 .sidebar-version-control-change-entry.node-info-none {
   background-color: #434954;
 }
@@ -505,12 +597,24 @@
   color: #222;
 }
 
+.sidebar-version-control-commit-subject {
+  color: #222;
+}
+
 .sidebar-version-control-slide-box {
   background-color: #434954;
 }
 
 .sidebar-version-control-slide-box.sidebar-version-control-slide-box-bottom {
   border-top-color: #2E333A;
+}
+
+.sidebar-version-control-slide-box.sidebar-version-control-slide-box-top {
+  background-color: #434954;
+  border-bottom-color: #2E333A;
+  border-left-color: #2E333A;
+  border-right-color: #2E333A;
+  color: #EDEDED;
 }
 
 .ui-dialog .ui-dialog-titlebar {
@@ -537,6 +641,28 @@
 }
 
 .ui-widget-header {
+  color: #EDEDED;
+}
+
+.uneditable-input,
+div[contenteditable="true"],
+input[type="color"],
+input[type="date"],
+input[type="datetime-local"],
+input[type="datetime"],
+input[type="email"],
+input[type="month"],
+input[type="number"],
+input[type="password"],
+input[type="search"],
+input[type="tel"],
+input[type="text"],
+input[type="time"],
+input[type="url"],
+input[type="week"],
+textarea {
+  background-color: #383C45;
+  border-color: #2E333A;
   color: #EDEDED;
 }
 
@@ -621,7 +747,8 @@
   color: #222;
 }
 
-a:hover, a:focus {
+a:hover,
+a:focus {
   color: #EDEDED;
   text-decoration: underline;
 }
@@ -651,27 +778,5 @@ table.node-info tr:not(.blank) td:last-child {
 }
 
 table.node-info tr.blank a {
-  color: #EDEDED;
-}
-
-.uneditable-input,
-div[contenteditable="true"],
-input[type="color"],
-input[type="date"],
-input[type="datetime-local"],
-input[type="datetime"],
-input[type="email"],
-input[type="month"],
-input[type="number"],
-input[type="password"],
-input[type="search"],
-input[type="tel"],
-input[type="text"],
-input[type="time"],
-input[type="url"],
-input[type="week"],
-textarea {
-  background-color: #383C45;
-  border-color: #2E333A;
   color: #EDEDED;
 }
