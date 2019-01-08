@@ -113,6 +113,10 @@
   color: #EDEDED;
 }
 
+.form-row label:hover {
+  color: #666;
+}
+
 .form-tips {
   background-color: #434954;
   border-color: #2E333A;
@@ -683,6 +687,10 @@ textarea {
 }
 
 #chart {
+  background-color: #434954;
+}
+
+#node-input-link-container {
   background-color: #434954;
 }
 
