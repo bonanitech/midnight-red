@@ -39,6 +39,8 @@ editorTheme: {
 
 Replace `<config-path>` with the directory where your `settings.js` file is located. For example, `/config/node-red`.
 
+For more details on the configuration please refer to the [Node-RED official documentation][node-red-doc].
+
 Restart Node-RED.
 
 Enjoy!
@@ -84,3 +86,4 @@ SOFTWARE.
 [watchers-shield]: https://img.shields.io/github/watchers/bonanitech/midnight-red.svg?style=social&label=Watchers
 [ha-midnight-theme]: https://community.home-assistant.io/t/midnight-theme/28598
 [node-red]: https://nodered.org/
+[node-red-doc]: https://nodered.org/docs/configuration
