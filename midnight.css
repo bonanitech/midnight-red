@@ -21,6 +21,10 @@
   border-right-color: #383C45;
 }
 
+.debug-message-element {
+  color: #2E333A;
+}
+
 .debug-message-meta {
   background-color: #434954;
   color: #EDEDED;
@@ -28,6 +32,14 @@
 
 .debug-message-name {
   color: #EDEDED;
+}
+
+.debug-message-object-handle {
+  color: #bbb;
+}
+
+.debug-message-object-key {
+  color: #222;
 }
 
 .debug-message-payload {
@@ -44,6 +56,10 @@
 
 .debug-message-tools .editor-button-small i.fa-terminal:hover {
   color: #4d4c4c !important;
+}
+
+.debug-message-type-meta {
+  color: #bbb;
 }
 
 .debug-message-type-number {
