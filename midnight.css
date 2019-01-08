@@ -387,6 +387,18 @@
   color: #222;
 }
 
+.projects-dialog-spinner {
+  background-color: #434954;
+}
+
+.projects-dialog-spinner.projects-dialog-spinner-sidebar {
+  background-color: #434954;
+}
+
+.projects-dialog-spinner.projects-version-control-spinner-sidebar {
+  background-color: #434954;
+}
+
 .red-ui-editableList-border .red-ui-editableList-header {
   border-bottom-color: #2E333A;
 }
@@ -656,6 +668,10 @@
   border-color: #2E333A;
 }
 
+.ui-spinner-input {
+  background-color: #434954;
+}
+
 .ui-widget textarea {
   background-color: #434954 !important;
 }
@@ -774,6 +790,10 @@ textarea {
   background-color: #434954;
   border-bottom-color: #2E333A;
   color: #222;
+}
+
+#workspace-toolbar .spinner-value {
+  background-color: #434954;
 }
 
 a:hover,
