@@ -256,6 +256,11 @@
   border-color: #2E333A;
 }
 
+.node_status_label {
+  fill: #DEDEDE;
+  stroke: #EDEDED;
+}
+
 .node-text-diff table.node-text-diff-content {
   border-color: #2E333A;
 }
