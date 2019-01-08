@@ -15,8 +15,39 @@
   border-bottom-color: #2E333A;
 }
 
+.debug-message {
+  border-bottom-color: #383C45;
+  border-left-color: #383C45;
+  border-right-color: #383C45;
+}
+
+.debug-message-meta {
+  background-color: #434954;
+  color: #EDEDED;
+}
+
+.debug-message-name {
+  color: #EDEDED;
+}
+
+.debug-message-payload {
+  background-color: #434954;
+}
+
 .debug-message-row:hover {
   background-color: #f3f3f3;
+}
+
+.debug-message-tools .editor-button-small i.fa-terminal {
+  color: #EDEDED !important;
+}
+
+.debug-message-tools .editor-button-small i.fa-terminal:hover {
+  color: #4d4c4c !important;
+}
+
+.debug-message-type-number {
+  color: #2C92D5;
 }
 
 .debug-message-type-string {
@@ -583,6 +614,11 @@
   background-color: #434954;
   border-bottom-color: #2E333A;
   color: #222;
+}
+
+a:hover, a:focus {
+  color: #EDEDED;
+  text-decoration: underline;
 }
 
 body {
