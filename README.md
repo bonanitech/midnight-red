@@ -1,4 +1,4 @@
-# Bonani's midnight Node-RED theme
+# Midnight Node-RED theme
 
 ![Project Maintenance][maintenance-shield]
 [![License][license-shield]](LICENSE.md)
