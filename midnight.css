@@ -399,6 +399,22 @@
   background-color: #434954;
 }
 
+.projects-dialog-screen-start button.editor-button {
+  border-color: #2E333A;
+}
+
+.projects-dialog-screen-start button.editor-button i {
+  color: #EDEDED;
+}
+
+.projects-dialog-screen-start .projects-dialog-screen-start-hero {
+  color: #EDEDED;
+}
+
+.projects-dialog-screen-start .projects-dialog-screen-start-hero h1 {
+  color: #2E333A;
+}
+
 .red-ui-editableList-border .red-ui-editableList-header {
   border-bottom-color: #2E333A;
 }
