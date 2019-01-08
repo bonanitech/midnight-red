@@ -201,6 +201,11 @@
   border-color: #2E333A;
 }
 
+.notification {
+  background-color: #434954;
+  color: #EDEDED;
+}
+
 .palette_label {
   color: #383C45;
 }
