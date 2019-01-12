@@ -697,6 +697,10 @@
   border-color: #2E333A;
 }
 
+.ui-widget-content a {
+  color: #EDEDED;
+}
+
 .ui-widget-header {
   color: #EDEDED;
 }
