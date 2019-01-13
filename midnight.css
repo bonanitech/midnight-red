@@ -333,22 +333,25 @@
   border-bottom-color: #2E333A;
 }
 
-.projects-branch-list .red-ui-editableList .red-ui-editableList-container li {
-  background: #2E333A;
-}
-
 .projects-branch-list .red-ui-editableList {
   border-color: #2E333A;
 }
 
-.projects-branch-list .red-ui-searchBox-container {
-  border-left-color: #2E333A;
-  border-right-color: #2E333A;
-  border-top-color: #2E333A;
+.projects-branch-list .red-ui-editableList .red-ui-editableList-container li {
+  background: #2E333A;
 }
 
 .projects-dialog-list .red-ui-editableList-container {
   background-color: #434954;
+}
+
+.projects-dialog-list-dialog {
+  background-color: #434954;
+  border-color: #2E333A;
+}
+
+.projects-dialog-list-dialog .projects-dialog-list-dialog-header {
+  background: #383C45;
 }
 
 .projects-dialog-project-list-container {
@@ -383,10 +386,6 @@
   color: #222;
 }
 
-.projects-edit-form form .form-row label {
-  color: #222;
-}
-
 .projects-dialog-spinner {
   background-color: #434954;
 }
@@ -413,6 +412,10 @@
 
 .projects-dialog-screen-start .projects-dialog-screen-start-hero h1 {
   color: #2E333A;
+}
+
+.projects-edit-form form .form-row label {
+  color: #222;
 }
 
 .red-ui-editableList-border .red-ui-editableList-header {
