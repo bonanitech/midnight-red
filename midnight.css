@@ -521,6 +521,11 @@
   border-color: #2E333A;
 }
 
+.red-ui-tab-close {
+  background-color: #383C45;
+  color: #aaa;
+}
+
 .red-ui-tab-link-buttons {
   background-color: #434954;
   border-bottom-color: #2E333A;
