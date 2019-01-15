@@ -256,6 +256,12 @@
   border-color: #2E333A;
 }
 
+.node-info-tips {
+  color: #EDEDED;
+  border-top-color: #2E333A;
+  background-color: #434954;
+}
+
 .node_status_label {
   fill: #DEDEDE;
   stroke: #EDEDED;
