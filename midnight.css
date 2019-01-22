@@ -191,6 +191,10 @@
   background: #383C45;
 }
 
+.node-diff-element .debug-message-row:hover {
+  background: #f3f3f3;
+}
+
 .node-diff-node-description {
   color: #222;
 }
@@ -199,6 +203,10 @@
 .node-diff-node-entry th {
   border-left-color: #2E333A;
   border-top-color: #2E333A;
+}
+
+.node-diff-node-entry tr:hover {
+  color: #222;  
 }
 
 .node-diff-node-entry-cell {
@@ -217,8 +225,16 @@
   border-top-color: #2E333A;
 }
 
+.node-diff-node-entry:not(:last-child) {
+  border-bottom-color: #2E333A;
+}
+
 .node-diff-node-unchanged .node-diff-status {
   color: #222;
+}
+
+.node-diff-property-cell.node-diff-node-changed {
+  background: #434954;
 }
 
 .node-diff-tab {
