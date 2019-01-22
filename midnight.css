@@ -765,6 +765,10 @@ textarea {
   border-color: #2E333A;
 }
 
+#palette-editor .expanded .palette-module-set-button {
+  color: #888 !important;
+}
+
 #palette-editor .palette-editor-toolbar {
   background: #383C45;
   border-bottom-color: #2E333A;
@@ -773,6 +777,14 @@ textarea {
 
 #palette-editor .palette-module-more {
   background-color: #383C45;
+}
+
+#palette-editor .palette-module-set {
+  border-color: #2E333A;
+}
+
+#palette-editor .palette-module-type {
+  color: #EDEDED;
 }
 
 #palette-editor .red-ui-editableList-container {
