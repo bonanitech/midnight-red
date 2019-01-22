@@ -609,6 +609,10 @@
   border-right-color: #434954;
 }
 
+.red-ui-type-search .red-ui-search-result-separator {
+  border-bottom-color: #2E333A;
+}
+
 .red-ui-typedInput-container {
   border-color: #2E333A;
 }
@@ -850,6 +854,10 @@ body {
 
 label {
   color: #EDEDED;
+}
+
+li.selected .red-ui-search-result-node-label{
+  color: #222;
 }
 
 table.node-info tr:not(.blank) {
