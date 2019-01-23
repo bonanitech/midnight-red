@@ -22,7 +22,7 @@
 }
 
 .debug-message-element {
-  color: #2E333A;
+  color: #EDEDED;
 }
 
 .debug-message-meta {
@@ -39,7 +39,7 @@
 }
 
 .debug-message-object-key {
-  color: #222;
+  color: #EDEDED;
 }
 
 .debug-message-payload {
@@ -86,6 +86,11 @@
   background-color: #434954;
   border-color: #2E333A;
   color: #EDEDED !important;
+}
+
+.editor-button:not(.disabled):not(:disabled):hover i.fa-terminal {
+  color: #666 !important;
+  background: #ddd;
 }
 
 .editor-tray {
