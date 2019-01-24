@@ -201,7 +201,7 @@
 }
 
 .node-diff-node-description {
-  color: #222;
+  color: #aaa;
 }
 
 .node-diff-node-entry td,
@@ -223,7 +223,7 @@
 }
 
 .node-diff-node-entry-properties {
-  color: #222;
+  color: #aaa;
 }
 
 .node-diff-node-entry:first-child {
@@ -235,7 +235,7 @@
 }
 
 .node-diff-node-unchanged .node-diff-status {
-  color: #222;
+  color: #aaa;
 }
 
 .node-diff-property-cell.node-diff-node-changed {
