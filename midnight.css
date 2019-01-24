@@ -368,6 +368,12 @@
   background: #2E333A;
 }
 
+.projects-branch-list .red-ui-searchBox-container {
+  border-top-color: #2E333A;
+  border-left-color: #2E333A;
+  border-right-color: #2E333A;
+}
+
 .projects-dialog-list .red-ui-editableList-container {
   background-color: #434954;
 }
@@ -681,11 +687,15 @@
   background-color: #434954;
   border-bottom-color: #2E333A;
   border-top-color: #2E333A;
+  color: #aaa;
+}
+
+.sidebar-version-control-commit-entry:hover .sidebar-version-control-commit-subject {
   color: #222;
 }
 
 .sidebar-version-control-commit-subject {
-  color: #222;
+  color: #EDEDED;
 }
 
 .sidebar-version-control-slide-box {
