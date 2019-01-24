@@ -256,6 +256,10 @@
   color: #EDEDED;
 }
 
+.node-help dl.message-properties>dt .property-type {
+  color: #EDEDED;
+}
+
 .node-help {
   background-color: #434954;
   color: #EDEDED;
@@ -789,6 +793,10 @@ textarea {
 
 #chart {
   background-color: #434954;
+}
+
+#halt_if_help {
+  color: #EDEDED;
 }
 
 #node-input-link-container {
