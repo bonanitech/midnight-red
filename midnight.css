@@ -22,7 +22,7 @@
 }
 
 .debug-message-element {
-  color: #2E333A;
+  color: #EDEDED;
 }
 
 .debug-message-meta {
@@ -39,7 +39,7 @@
 }
 
 .debug-message-object-key {
-  color: #222;
+  color: #EDEDED;
 }
 
 .debug-message-payload {
@@ -67,7 +67,7 @@
 }
 
 .debug-message-type-string {
-  color: #222;
+  color: #aaa;
 }
 
 .debug-message-type-string:hover {
@@ -86,6 +86,11 @@
   background-color: #434954;
   border-color: #2E333A;
   color: #EDEDED !important;
+}
+
+.editor-button:not(.disabled):not(:disabled):hover i.fa-terminal {
+  color: #666 !important;
+  background: #ddd;
 }
 
 .editor-tray {
@@ -196,7 +201,7 @@
 }
 
 .node-diff-node-description {
-  color: #222;
+  color: #aaa;
 }
 
 .node-diff-node-entry td,
@@ -218,7 +223,7 @@
 }
 
 .node-diff-node-entry-properties {
-  color: #222;
+  color: #aaa;
 }
 
 .node-diff-node-entry:first-child {
@@ -230,7 +235,7 @@
 }
 
 .node-diff-node-unchanged .node-diff-status {
-  color: #222;
+  color: #aaa;
 }
 
 .node-diff-property-cell.node-diff-node-changed {
@@ -248,6 +253,10 @@
 }
 
 .node-help .node-info-header {
+  color: #EDEDED;
+}
+
+.node-help dl.message-properties>dt .property-type {
   color: #EDEDED;
 }
 
@@ -361,6 +370,12 @@
 
 .projects-branch-list .red-ui-editableList .red-ui-editableList-container li {
   background: #2E333A;
+}
+
+.projects-branch-list .red-ui-searchBox-container {
+  border-top-color: #2E333A;
+  border-left-color: #2E333A;
+  border-right-color: #2E333A;
 }
 
 .projects-dialog-list .red-ui-editableList-container {
@@ -676,11 +691,15 @@
   background-color: #434954;
   border-bottom-color: #2E333A;
   border-top-color: #2E333A;
+  color: #aaa;
+}
+
+.sidebar-version-control-commit-entry:hover .sidebar-version-control-commit-subject {
   color: #222;
 }
 
 .sidebar-version-control-commit-subject {
-  color: #222;
+  color: #EDEDED;
 }
 
 .sidebar-version-control-slide-box {
@@ -774,6 +793,10 @@ textarea {
 
 #chart {
   background-color: #434954;
+}
+
+#halt_if_help {
+  color: #EDEDED;
 }
 
 #node-input-link-container {
