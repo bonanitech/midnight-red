@@ -256,10 +256,6 @@
   color: #EDEDED;
 }
 
-.node-help dl.message-properties>dt .property-type {
-  color: #EDEDED;
-}
-
 .node-help {
   background-color: #434954;
   color: #EDEDED;
@@ -270,7 +266,7 @@
 }
 
 .node-help dl.message-properties>dt .property-type {
-  color: #222;
+  color: #EDEDED;
 }
 
 .node-help dl.message-properties>dt {
