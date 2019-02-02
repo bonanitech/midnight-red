@@ -67,7 +67,7 @@
 }
 
 .debug-message-type-string {
-  color: #aaa;
+  color: orange;
 }
 
 .debug-message-type-string:hover {
@@ -126,6 +126,16 @@
   border-bottom-color: #2E333A;
 }
 
+.editor-tray-toolbar button.leftButton {
+  color: #444 !important;
+}
+
+.editor-tray-toolbar button {
+  border-color: #2E333A;
+  color: #444 !important;
+  background: #fff;
+}
+
 .form-row {
   color: #EDEDED;
 }
@@ -154,9 +164,6 @@
 
 .innerCanvas>rect.lasso {
   fill: rgba(20, 125, 255, 0.1);
-  stroke-dasharray: 10 5;
-  stroke-width: 1px;
-  stroke: #ff7f0e;
 }
 
 .keyboard-shortcut-list-header {
@@ -266,11 +273,15 @@
 }
 
 .node-help dl.message-properties>dt .property-type {
-  color: #EDEDED;
+  color: #999;
 }
 
 .node-help dl.message-properties>dt {
-  color: #E50000;
+  color: orange;
+}
+
+.node-help ol.node-ports li {
+  border-color: #2E333A;
 }
 
 .node-info {
@@ -358,6 +369,10 @@
 .palette-search {
   background-color: #383C45;
   border-bottom-color: #2E333A;
+}
+
+.palette-spinner {
+  background-color: #434954;
 }
 
 .projects-branch-list .red-ui-editableList {
@@ -644,6 +659,14 @@
   border-color: #2E333A;
 }
 
+.red-ui-typedInput-options a:focus {
+  color: #222;
+}
+
+.red-ui-typedInput-options a:hover {
+  color: #222;
+}
+
 .sidebar-footer-button {
   background-color: #434954;
   border-color: #2E333A;
@@ -869,7 +892,7 @@ textarea {
 #workspace-toolbar {
   background-color: #434954;
   border-bottom-color: #2E333A;
-  color: #222;
+  color: #aaa;
 }
 
 #workspace-toolbar .spinner-value {
@@ -885,6 +908,10 @@ a:focus {
 body {
   background-color: #434954;
   color: #222;
+}
+
+div.projects-dialog-ssh-public-key pre {
+  border-color: #2E333A;
 }
 
 label {
