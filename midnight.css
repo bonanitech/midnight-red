@@ -218,7 +218,7 @@
 }
 
 .node-diff-node-entry tr:hover {
-  color: #222;  
+  color: #222;
 }
 
 .node-diff-node-entry-cell {
@@ -918,7 +918,7 @@ label {
   color: #EDEDED;
 }
 
-li.selected .red-ui-search-result-node-label{
+li.selected .red-ui-search-result-node-label {
   color: #222;
 }
 
