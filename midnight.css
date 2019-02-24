@@ -889,6 +889,10 @@ textarea {
   border-top-color: #2E333A;
 }
 
+#workspace-tabs:not(.workspace-focussed) li.red-ui-tab.active a {
+  color: #ccc;
+}
+
 #workspace-toolbar {
   background-color: #434954;
   border-bottom-color: #2E333A;
