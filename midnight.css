@@ -862,6 +862,11 @@ textarea {
   border-top-color: #2E333A;
 }
 
+#project-settings-tab-deps .palette-module-unknown {
+  border: 1px dashed #aaa;
+  background: #434954;
+}
+
 #sidebar {
   background-color: #434954;
   border-color: #2E333A;
