@@ -402,6 +402,10 @@
   background: #383C45;
 }
 
+.projects-dialog-list-entry .entry-icon {
+  color: #EDEDED;
+}
+
 .projects-dialog-project-list-container {
   border-color: #2E333A;
 }
