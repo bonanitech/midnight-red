@@ -1,6 +1,6 @@
 /*
   midnight-red - https://github.com/bonanitech/midnight-red
- */
+*/
 
 .breadcrumb {
   background-color: #434954;
@@ -91,7 +91,7 @@
 
 .editor-button:not(.disabled):not(:disabled):hover i.fa-terminal {
   color: #666 !important;
-  background: #ddd;
+  background-color: #ddd;
 }
 
 .editor-tray {
@@ -134,7 +134,7 @@
 .editor-tray-toolbar button {
   border-color: #2E333A;
   color: #444 !important;
-  background: #fff;
+  background-color: #fff;
 }
 
 .form-row {
@@ -201,11 +201,11 @@
 }
 
 .node-dialog-view-diff-panel .node-dialog-view-diff-diff li {
-  background: #383C45;
+  background-color: #383C45;
 }
 
 .node-diff-element .debug-message-row:hover {
-  background: #f3f3f3;
+  background-color: #f3f3f3;
 }
 
 .node-diff-node-description {
@@ -247,7 +247,7 @@
 }
 
 .node-diff-property-cell.node-diff-node-changed {
-  background: #434954;
+  background-color: #434954;
 }
 
 .node-diff-tab {
@@ -385,7 +385,7 @@
 }
 
 .projects-branch-list .red-ui-editableList .red-ui-editableList-container li {
-  background: #2E333A;
+  background-color: #2E333A;
 }
 
 .projects-branch-list .red-ui-searchBox-container {
@@ -404,7 +404,7 @@
 }
 
 .projects-dialog-list-dialog .projects-dialog-list-dialog-header {
-  background: #383C45;
+  background-color: #383C45;
 }
 
 .projects-dialog-list-entry .entry-icon {
@@ -683,6 +683,10 @@
   border-bottom-color: #2E333A;
 }
 
+.sidebar-version-control-commit-sha {
+  color: #ff7f0e;
+}
+
 .sidebar-node-config {
   background-color: #434954;
 }
@@ -703,7 +707,7 @@
 }
 
 .sidebar-version-control-branch-list-entry:not(.input-error):hover {
-  background: #f3f3f3;
+  background-color: #f3f3f3;
   color: #666;
 }
 
@@ -720,10 +724,6 @@
 
 .sidebar-version-control-commit-entry:hover .sidebar-version-control-commit-subject {
   color: #222;
-}
-
-.sidebar-version-control-commit-sha {
-  color: #ff7f0e;
 }
 
 .sidebar-version-control-commit-subject {
@@ -841,7 +841,7 @@ textarea {
 }
 
 #palette-editor .palette-editor-toolbar {
-  background: #383C45;
+  background-color: #383C45;
   border-bottom-color: #2E333A;
   color: #EDEDED;
 }
@@ -863,7 +863,7 @@ textarea {
 }
 
 #palette-editor .red-ui-editableList-container li .disabled {
-  background: #383C45;
+  background-color: #383C45;
 }
 
 #palette-footer {
@@ -873,7 +873,7 @@ textarea {
 
 #project-settings-tab-deps .palette-module-unknown {
   border: 1px dashed #aaa;
-  background: #434954;
+  background-color: #434954;
 }
 
 #sidebar {
