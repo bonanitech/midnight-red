@@ -295,6 +295,14 @@
   background-color: #434954;
 }
 
+.node-input-markdown-panel-preview {
+  border-color: #2E333A;
+}
+
+.node-input-markdown-editor #dialog-form .red-ui-panel:last-child {
+  background-color: #434954;
+}
+
 .node_status_label {
   fill: #DEDEDE;
   stroke: #EDEDED;
