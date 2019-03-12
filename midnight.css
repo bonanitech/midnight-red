@@ -722,6 +722,10 @@
   color: #222;
 }
 
+.sidebar-version-control-commit-sha {
+  color: #ff7f0e;
+}
+
 .sidebar-version-control-commit-subject {
   color: #EDEDED;
 }
