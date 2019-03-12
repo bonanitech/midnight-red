@@ -363,6 +363,10 @@
   color: #EDEDED;
 }
 
+.palette-header:hover {
+  background-color: #999 !important;
+}
+
 .palette-module-meta {
   color: #EDEDED;
 }
