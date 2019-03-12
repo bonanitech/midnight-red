@@ -331,6 +331,10 @@
   border-color: #2E333A;
 }
 
+.node-text-editor-container {
+  border-color: #2E333A;
+}
+
 .notification {
   background-color: #434954;
   color: #EDEDED;
