@@ -522,6 +522,17 @@
   border-color: #2E333A;
 }
 
+.red-ui-panels-separator {
+  border-top-color: #2E333A;
+  border-bottom-color: #2E333A;
+  background-color: #434954;
+}
+
+.red-ui-panels.red-ui-panels-horizontal .red-ui-panels-separator {
+  border-left-color: #2E333A;
+  border-right-color: #2E333A;
+}
+
 .red-ui-search {
   background-color: #434954;
   border-color: #2E333A;
