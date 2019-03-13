@@ -836,9 +836,14 @@ textarea {
   color: #EDEDED !important;
 }
 
-.workspace-footer-button-toggle {
+.workspace-footer-button-toggle,
+.workspace-footer-button-toggle.single {
   background-color: #434954;
   border-color: #2E333A;
+  color: #EDEDED !important;
+}
+
+.workspace-footer-button-toggle:not(.disabled):not(:disabled):focus {
   color: #EDEDED !important;
 }
 
