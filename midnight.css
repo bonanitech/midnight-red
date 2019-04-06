@@ -10,6 +10,10 @@
   text-shadow: 0 1px 0 #444;
 }
 
+.button label {
+  color: #888;
+}
+
 .debug-filter-box {
   background-color: #383C45;
   border-bottom-color: #2E333A;
