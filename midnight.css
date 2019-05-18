@@ -683,6 +683,11 @@
   border-right-color: #434954;
 }
 
+.red-ui-treeList-container {
+  background: #434954;
+  border-color: #2E333A;
+}
+
 .red-ui-type-search .red-ui-search-result-separator {
   border-bottom-color: #2E333A;
 }
