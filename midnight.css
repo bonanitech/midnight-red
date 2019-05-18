@@ -208,6 +208,10 @@
   background-color: #383C45;
 }
 
+.node-dialog-view-diff-panel .red-ui-editableList-container {
+  background-color: #383C45;
+}
+
 .node-diff-element .debug-message-row:hover {
   background-color: #f3f3f3;
 }
@@ -318,6 +322,10 @@
 
 .node-text-diff table.node-text-diff-content td.lineno {
   background-color: #434954;
+}
+
+.node-text-diff table.node-text-diff-content td.linetext {
+  border-left-color: #2E333A;
 }
 
 .node-text-diff table.node-text-diff-content tr.node-text-diff-commit-header td .commit-summary {
