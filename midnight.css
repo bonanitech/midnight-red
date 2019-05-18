@@ -455,6 +455,11 @@
   border-right-color: #999;
 }
 
+
+.projects-dialog-screen-start .projects-dialog-screen-start-body {
+  color: #EDEDED;
+}
+
 .projects-dialog-ssh-key-list .projects-dialog-ssh-key-header:hover {
   color: #222;
 }
@@ -488,7 +493,7 @@
 }
 
 .projects-edit-form form .form-row label {
-  color: #222;
+  color: #EDEDED;
 }
 
 .red-ui-editableList-border .red-ui-editableList-header {
