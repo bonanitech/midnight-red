@@ -12,6 +12,9 @@
 
 [![Buy me a coffee][buymeacoffee-shield]][buymeacoffee]
 
+**THIS IS A DEVELOPMENT VERSION FOR NODE-RED 1.0**
+**FOR THE CURRENT VERSION CHECK THE `MASTER` BRANCH**
+
 ## About
 
 This is a dark theme for [Node-RED][node-red] based on the [midnight theme][ha-midnight-theme] for [Home Assistant][home-assistant].
@@ -24,15 +27,14 @@ This is a dark theme for [Node-RED][node-red] based on the [midnight theme][ha-m
 
 ## Install
 
-Copy `midnight.css` and `theme-tomorrow.js` into the same directory of your `settings.js` file.
+Copy `midnight.css` into the same directory of your `settings.js` file.
 
 Add the folowing to the `editorTheme` section of your `settings.js`.
 
 ```js
 editorTheme: {
     page: {
-        css: "<config-path>/midnight.css",
-        scripts: "<config-path>/theme-tomorrow.js"
+        css: "<config-path>/midnight.css"
     }
 }
 ```
