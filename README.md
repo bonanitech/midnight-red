@@ -13,7 +13,8 @@
 [![Buy me a coffee][buymeacoffee-shield]][buymeacoffee]
 
 **THIS IS A DEVELOPMENT VERSION FOR NODE-RED 1.0**
-**FOR THE CURRENT VERSION CHECK THE `MASTER` BRANCH**
+
+**FOR THE CURRENT VERSION CHECK THE [`MASTER`][master-branch] BRANCH**
 
 ## About
 
@@ -82,6 +83,7 @@ SOFTWARE.
 [issue]: https://github.com/bonanitech/midnight-red/issues
 [license-shield]: https://img.shields.io/github/license/bonanitech/midnight-red.svg
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2019.svg
+[master-branch]: https://github.com/bonanitech/midnight-red/tree/master
 [last-commit-shield]: https://img.shields.io/github/last-commit/bonanitech/midnight-red.svg
 [stars-shield]: https://img.shields.io/github/stars/bonanitech/midnight-red.svg?style=social&label=Stars
 [forks-shield]: https://img.shields.io/github/forks/bonanitech/midnight-red.svg?style=social&label=Forks
