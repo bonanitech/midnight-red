@@ -1,3 +1,7 @@
+/*
+  midnight-red - https://github.com/bonanitech/midnight-red
+*/
+
 .help-key {
   border: 1px solid #2E333A;
   background: #383C45;
@@ -20,7 +24,6 @@
 }
 
 .red-ui-clipboard-import-error pre {
-  border: none;
   color: #ededed
 }
 
@@ -192,7 +195,6 @@
 
 .red-ui-diff-text table.red-ui-diff-text-content tr.red-ui-diff-text-commit-header td .commit-summary {
   border-top: 1px solid #2E333A;
-  color: #888
 }
 
 .red-ui-diff-text table.red-ui-diff-text-content tr.red-ui-diff-text-commit-header td {
@@ -216,7 +218,6 @@
 
 .red-ui-diff-text table.red-ui-diff-text-content {
   border: 1px solid #2E333A;
-  border-radius: 3px
 }
 
 .red-ui-editableList-border .red-ui-editableList-header {
@@ -225,7 +226,6 @@
 
 .red-ui-editableList-border {
   border: 1px solid #2E333A;
-  border-radius: 4px
 }
 
 .red-ui-editableList-container .red-ui-editabelList-item-placeholder {
@@ -925,11 +925,7 @@
 }
 
 .red-ui-tabs ul {
-  box-sizing: border-box;
   border-bottom: 1px solid #2E333A
-}
-
-.red-ui-tabs-badges {
 }
 
 .red-ui-tabs.red-ui-tabs-vertical ul li:last-child {
