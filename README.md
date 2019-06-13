@@ -6,10 +6,6 @@
 [![GitHub Activity][commits-shield]][commits]
 [![GitHub Last Commit][last-commit-shield]][commits]
 
-![GitHub Stars][stars-shield]
-![GitHub Watchers][watchers-shield]
-![GitHub Forks][forks-shield]
-
 [![Buy me a coffee][buymeacoffee-shield]][buymeacoffee]
 
 ## About
@@ -69,21 +65,19 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+[bonanitech]: https://github.com/bonanitech
 [buymeacoffee-shield]: https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-2.svg
 [buymeacoffee]: https://www.buymeacoffee.com/mbonani
-[commits-shield]: https://img.shields.io/github/commit-activity/y/bonanitech/midnight-red.svg
+[commits-shield]: https://img.shields.io/github/commit-activity/y/bonanitech/midnight-red.svg?style=for-the-badge
 [commits]: https://github.com/bonanitech/midnight-red/commits/master
 [contributors]: https://github.com/bonanitech/midnight-red/graphs/contributors
 [discord-shield]: https://img.shields.io/discord/330944238910963714.svg
-[bonanitech]: https://github.com/bonanitech
+[ha-midnight-theme]: https://community.home-assistant.io/t/midnight-theme/28598
 [home-assistant]: https://home-assistant.io
 [issue]: https://github.com/bonanitech/midnight-red/issues
-[license-shield]: https://img.shields.io/github/license/bonanitech/midnight-red.svg
-[maintenance-shield]: https://img.shields.io/maintenance/yes/2019.svg
-[last-commit-shield]: https://img.shields.io/github/last-commit/bonanitech/midnight-red.svg
-[stars-shield]: https://img.shields.io/github/stars/bonanitech/midnight-red.svg?style=social&label=Stars
-[forks-shield]: https://img.shields.io/github/forks/bonanitech/midnight-red.svg?style=social&label=Forks
-[watchers-shield]: https://img.shields.io/github/watchers/bonanitech/midnight-red.svg?style=social&label=Watchers
-[ha-midnight-theme]: https://community.home-assistant.io/t/midnight-theme/28598
-[node-red]: https://nodered.org/
+[last-commit-shield]: https://img.shields.io/github/last-commit/bonanitech/midnight-red.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/bonanitech/midnight-red.svg?style=for-the-badge
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2019.svg?style=for-the-badge
+[master-branch]: https://github.com/bonanitech/midnight-red/tree/master
 [node-red-doc]: https://nodered.org/docs/configuration
+[node-red]: https://nodered.org/
