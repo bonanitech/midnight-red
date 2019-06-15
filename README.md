@@ -12,11 +12,7 @@
 
 This is a dark theme for [Node-RED][node-red] based on the [midnight theme][ha-midnight-theme] for [Home Assistant][home-assistant].
 
-<br />
-
-<div align="center">
-  <img src="images/screenshot.png">
-</div>
+![screenshot](https://raw.githubusercontent.com/bonanitech/midnight-red/master/images/screenshot.png)
 
 ## Install
 
