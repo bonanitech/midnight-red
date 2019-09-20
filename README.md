@@ -1,3 +1,9 @@
+# **THIS REPO IS ARCHIVED!!!**
+
+**Please follow the link below to the new location of the code**
+
+**https://github.com/bonanitech/node-red-contrib-theme-midnight-red**
+
 # Midnight Node-RED theme
 
 ![Project Maintenance][maintenance-shield]
