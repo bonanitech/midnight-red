@@ -79,7 +79,7 @@ SOFTWARE.
 [issue]: https://github.com/bonanitech/midnight-red/issues
 [last-commit-shield]: https://img.shields.io/github/last-commit/bonanitech/midnight-red.svg?style=for-the-badge
 [license-shield]: https://img.shields.io/github/license/bonanitech/midnight-red.svg?style=for-the-badge
-[maintenance-shield]: https://img.shields.io/maintenance/yes/2019.svg?style=for-the-badge
+[maintenance-shield]: https://img.shields.io/maintenance/no/2019.svg?style=for-the-badge
 [master-branch]: https://github.com/bonanitech/midnight-red/tree/master
 [node-red-doc]: https://nodered.org/docs/configuration
 [node-red]: https://nodered.org/
