@@ -1,16 +1,9 @@
-# **THIS REPO IS ARCHIVED!!!**
-
-**Please follow the link below to the new location of the code**
-
-**https://github.com/bonanitech/node-red-contrib-theme-midnight-red**
+# **THIS PROJECT HAS MOVED TO https://github.com/node-red-contrib-themes/midnight-red**
 
 # Midnight Node-RED theme
 
 ![Project Maintenance][maintenance-shield]
 [![License][license-shield]](LICENSE.md)
-
-[![GitHub Activity][commits-shield]][commits]
-[![GitHub Last Commit][last-commit-shield]][commits]
 
 [![Buy me a coffee][buymeacoffee-shield]][buymeacoffee]
 
@@ -67,19 +60,11 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[bonanitech]: https://github.com/bonanitech
 [buymeacoffee-shield]: https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-2.svg
 [buymeacoffee]: https://www.buymeacoffee.com/mbonani
-[commits-shield]: https://img.shields.io/github/commit-activity/y/bonanitech/midnight-red.svg?style=for-the-badge
-[commits]: https://github.com/bonanitech/midnight-red/commits/master
-[contributors]: https://github.com/bonanitech/midnight-red/graphs/contributors
-[discord-shield]: https://img.shields.io/discord/330944238910963714.svg
 [ha-midnight-theme]: https://community.home-assistant.io/t/midnight-theme/28598
 [home-assistant]: https://home-assistant.io
-[issue]: https://github.com/bonanitech/midnight-red/issues
-[last-commit-shield]: https://img.shields.io/github/last-commit/bonanitech/midnight-red.svg?style=for-the-badge
 [license-shield]: https://img.shields.io/github/license/bonanitech/midnight-red.svg?style=for-the-badge
 [maintenance-shield]: https://img.shields.io/maintenance/no/2019.svg?style=for-the-badge
-[master-branch]: https://github.com/bonanitech/midnight-red/tree/master
 [node-red-doc]: https://nodered.org/docs/configuration
 [node-red]: https://nodered.org/
